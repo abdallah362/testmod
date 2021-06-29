@@ -1,0 +1,8 @@
+name: "music"
+displayName: "This isn't a mod."
+author: "abd"
+description: "Bbfashbjhcbabfhsbafbhajbf"
+version: "1.0"
+minGameVersion: "126.2"
+dependencies: [ ]
+hidden: false
